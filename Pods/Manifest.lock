@@ -1,0 +1,28 @@
+PODS:
+  - JJFloatingActionButton (2.5.0)
+  - TensorFlowLiteC (2.5.0):
+    - TensorFlowLiteC/Core (= 2.5.0)
+  - TensorFlowLiteC/Core (2.5.0)
+  - TensorFlowLiteSwift (2.5.0):
+    - TensorFlowLiteSwift/Core (= 2.5.0)
+  - TensorFlowLiteSwift/Core (2.5.0):
+    - TensorFlowLiteC (= 2.5.0)
+
+DEPENDENCIES:
+  - JJFloatingActionButton
+  - TensorFlowLiteSwift
+
+SPEC REPOS:
+  trunk:
+    - JJFloatingActionButton
+    - TensorFlowLiteC
+    - TensorFlowLiteSwift
+
+SPEC CHECKSUMS:
+  JJFloatingActionButton: fdc3aefb0f28f04d0f988fa25d5fac97028a9ea7
+  TensorFlowLiteC: 9115580176f050caa70fea478dba3d5a75c612a4
+  TensorFlowLiteSwift: 50063271b9ba99202c4d96a969a518eee2b5807e
+
+PODFILE CHECKSUM: 34c66de5c8025e1ebc06dde0a86b044c05027b6e
+
+COCOAPODS: 1.10.1
